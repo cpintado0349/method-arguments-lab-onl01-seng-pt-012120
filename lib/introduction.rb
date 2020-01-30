@@ -1,3 +1,3 @@
-def introduction_with_language(name, language)
-  puts "Hello, my name is #{name}, I am learning to program in #{language}."
+def introduction(name)
+  puts "Hi, my name is #{name}."
 end
