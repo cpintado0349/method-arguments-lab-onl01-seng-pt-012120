@@ -3,5 +3,6 @@ def introduction_with_language(name, language)
     puts name
   end
 end
+
 introduction_with_language
-introduction_with_language()
+introduction_with_language("Cristian", "Ruby")
